@@ -1,0 +1,12 @@
+E:\backup files\school stuff\Columbus state\Semester 5\Graph user interface CPSC\assigments\assigment_4\Decking Cost Calculator\Decking Cost Calculator\bin\Debug\Decking Cost Calculator.exe.config
+E:\backup files\school stuff\Columbus state\Semester 5\Graph user interface CPSC\assigments\assigment_4\Decking Cost Calculator\Decking Cost Calculator\bin\Debug\Decking Cost Calculator.exe
+E:\backup files\school stuff\Columbus state\Semester 5\Graph user interface CPSC\assigments\assigment_4\Decking Cost Calculator\Decking Cost Calculator\bin\Debug\Decking Cost Calculator.pdb
+E:\backup files\school stuff\Columbus state\Semester 5\Graph user interface CPSC\assigments\assigment_4\Decking Cost Calculator\Decking Cost Calculator\bin\Debug\Decking Cost Calculator.xml
+E:\backup files\school stuff\Columbus state\Semester 5\Graph user interface CPSC\assigments\assigment_4\Decking Cost Calculator\Decking Cost Calculator\obj\Debug\Decking Cost Calculator.vbprojAssemblyReference.cache
+E:\backup files\school stuff\Columbus state\Semester 5\Graph user interface CPSC\assigments\assigment_4\Decking Cost Calculator\Decking Cost Calculator\obj\Debug\Decking_Cost_Calculator.frmDecking.resources
+E:\backup files\school stuff\Columbus state\Semester 5\Graph user interface CPSC\assigments\assigment_4\Decking Cost Calculator\Decking Cost Calculator\obj\Debug\Decking_Cost_Calculator.Resources.resources
+E:\backup files\school stuff\Columbus state\Semester 5\Graph user interface CPSC\assigments\assigment_4\Decking Cost Calculator\Decking Cost Calculator\obj\Debug\Decking Cost Calculator.vbproj.GenerateResource.cache
+E:\backup files\school stuff\Columbus state\Semester 5\Graph user interface CPSC\assigments\assigment_4\Decking Cost Calculator\Decking Cost Calculator\obj\Debug\Decking Cost Calculator.vbproj.CoreCompileInputs.cache
+E:\backup files\school stuff\Columbus state\Semester 5\Graph user interface CPSC\assigments\assigment_4\Decking Cost Calculator\Decking Cost Calculator\obj\Debug\Decking Cost Calculator.exe
+E:\backup files\school stuff\Columbus state\Semester 5\Graph user interface CPSC\assigments\assigment_4\Decking Cost Calculator\Decking Cost Calculator\obj\Debug\Decking Cost Calculator.xml
+E:\backup files\school stuff\Columbus state\Semester 5\Graph user interface CPSC\assigments\assigment_4\Decking Cost Calculator\Decking Cost Calculator\obj\Debug\Decking Cost Calculator.pdb

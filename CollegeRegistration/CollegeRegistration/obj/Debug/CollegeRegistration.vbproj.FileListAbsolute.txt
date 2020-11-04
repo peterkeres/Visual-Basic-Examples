@@ -1,0 +1,24 @@
+E:/Google Drive/Columbus state/Semester 5/graphic_user_interface_CPSC_3118/assigments/assigment_10/CollegeRegistration/CollegeRegistration/bin/Debug/CollegeRegistration.exe.config
+E:/Google Drive/Columbus state/Semester 5/graphic_user_interface_CPSC_3118/assigments/assigment_10/CollegeRegistration/CollegeRegistration/bin/Debug/CollegeRegistration.exe
+E:/Google Drive/Columbus state/Semester 5/graphic_user_interface_CPSC_3118/assigments/assigment_10/CollegeRegistration/CollegeRegistration/bin/Debug/CollegeRegistration.pdb
+E:/Google Drive/Columbus state/Semester 5/graphic_user_interface_CPSC_3118/assigments/assigment_10/CollegeRegistration/CollegeRegistration/bin/Debug/CollegeRegistration.xml
+E:/Google Drive/Columbus state/Semester 5/graphic_user_interface_CPSC_3118/assigments/assigment_10/CollegeRegistration/CollegeRegistration/obj/Debug/CollegeRegistration.vbprojAssemblyReference.cache
+E:/Google Drive/Columbus state/Semester 5/graphic_user_interface_CPSC_3118/assigments/assigment_10/CollegeRegistration/CollegeRegistration/obj/Debug/CollegeRegistration.frmCollege.resources
+E:/Google Drive/Columbus state/Semester 5/graphic_user_interface_CPSC_3118/assigments/assigment_10/CollegeRegistration/CollegeRegistration/obj/Debug/CollegeRegistration.Resources.resources
+E:/Google Drive/Columbus state/Semester 5/graphic_user_interface_CPSC_3118/assigments/assigment_10/CollegeRegistration/CollegeRegistration/obj/Debug/CollegeRegistration.vbproj.GenerateResource.cache
+E:/Google Drive/Columbus state/Semester 5/graphic_user_interface_CPSC_3118/assigments/assigment_10/CollegeRegistration/CollegeRegistration/obj/Debug/CollegeRegistration.vbproj.CoreCompileInputs.cache
+E:/Google Drive/Columbus state/Semester 5/graphic_user_interface_CPSC_3118/assigments/assigment_10/CollegeRegistration/CollegeRegistration/obj/Debug/CollegeRegistration.exe
+E:/Google Drive/Columbus state/Semester 5/graphic_user_interface_CPSC_3118/assigments/assigment_10/CollegeRegistration/CollegeRegistration/obj/Debug/CollegeRegistration.xml
+E:/Google Drive/Columbus state/Semester 5/graphic_user_interface_CPSC_3118/assigments/assigment_10/CollegeRegistration/CollegeRegistration/obj/Debug/CollegeRegistration.pdb
+/Users/peterk/Downloads/visual basic/assigments/assigment_10/CollegeRegistration/CollegeRegistration/bin/Debug/CollegeRegistration.exe.config
+/Users/peterk/Downloads/visual basic/assigments/assigment_10/CollegeRegistration/CollegeRegistration/bin/Debug/CollegeRegistration.exe
+/Users/peterk/Downloads/visual basic/assigments/assigment_10/CollegeRegistration/CollegeRegistration/bin/Debug/CollegeRegistration.pdb
+/Users/peterk/Downloads/visual basic/assigments/assigment_10/CollegeRegistration/CollegeRegistration/bin/Debug/CollegeRegistration.xml
+/Users/peterk/Downloads/visual basic/assigments/assigment_10/CollegeRegistration/CollegeRegistration/obj/Debug/CollegeRegistration.vbprojAssemblyReference.cache
+/Users/peterk/Downloads/visual basic/assigments/assigment_10/CollegeRegistration/CollegeRegistration/obj/Debug/CollegeRegistration.frmCollege.resources
+/Users/peterk/Downloads/visual basic/assigments/assigment_10/CollegeRegistration/CollegeRegistration/obj/Debug/CollegeRegistration.Resources.resources
+/Users/peterk/Downloads/visual basic/assigments/assigment_10/CollegeRegistration/CollegeRegistration/obj/Debug/CollegeRegistration.vbproj.GenerateResource.cache
+/Users/peterk/Downloads/visual basic/assigments/assigment_10/CollegeRegistration/CollegeRegistration/obj/Debug/CollegeRegistration.vbproj.CoreCompileInputs.cache
+/Users/peterk/Downloads/visual basic/assigments/assigment_10/CollegeRegistration/CollegeRegistration/obj/Debug/CollegeRegistration.exe
+/Users/peterk/Downloads/visual basic/assigments/assigment_10/CollegeRegistration/CollegeRegistration/obj/Debug/CollegeRegistration.xml
+/Users/peterk/Downloads/visual basic/assigments/assigment_10/CollegeRegistration/CollegeRegistration/obj/Debug/CollegeRegistration.pdb

@@ -1,0 +1,10 @@
+c:\users\pete main\documents\visual studio 2012\Projects\Shopper Solution\Shopper Project\bin\Debug\Shopper Project.exe.config
+c:\users\pete main\documents\visual studio 2012\Projects\Shopper Solution\Shopper Project\bin\Debug\Shopper Project.exe
+c:\users\pete main\documents\visual studio 2012\Projects\Shopper Solution\Shopper Project\bin\Debug\Shopper Project.pdb
+c:\users\pete main\documents\visual studio 2012\Projects\Shopper Solution\Shopper Project\bin\Debug\Shopper Project.xml
+c:\users\pete main\documents\visual studio 2012\Projects\Shopper Solution\Shopper Project\obj\Debug\Shopper_Project.MainForm.resources
+c:\users\pete main\documents\visual studio 2012\Projects\Shopper Solution\Shopper Project\obj\Debug\Shopper_Project.Resources.resources
+c:\users\pete main\documents\visual studio 2012\Projects\Shopper Solution\Shopper Project\obj\Debug\Shopper Project.vbproj.GenerateResource.Cache
+c:\users\pete main\documents\visual studio 2012\Projects\Shopper Solution\Shopper Project\obj\Debug\Shopper Project.exe
+c:\users\pete main\documents\visual studio 2012\Projects\Shopper Solution\Shopper Project\obj\Debug\Shopper Project.xml
+c:\users\pete main\documents\visual studio 2012\Projects\Shopper Solution\Shopper Project\obj\Debug\Shopper Project.pdb

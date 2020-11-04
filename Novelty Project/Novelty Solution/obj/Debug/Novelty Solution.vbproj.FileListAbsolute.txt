@@ -1,0 +1,10 @@
+c:\users\pete main\documents\visual studio 2012\Projects\Novelty Project\Novelty Solution\bin\Debug\Novelty Solution.exe.config
+c:\users\pete main\documents\visual studio 2012\Projects\Novelty Project\Novelty Solution\obj\Debug\Novelty_Solution.MainForm.resources
+c:\users\pete main\documents\visual studio 2012\Projects\Novelty Project\Novelty Solution\obj\Debug\Novelty_Solution.Resources.resources
+c:\users\pete main\documents\visual studio 2012\Projects\Novelty Project\Novelty Solution\obj\Debug\Novelty Solution.vbproj.GenerateResource.Cache
+c:\users\pete main\documents\visual studio 2012\Projects\Novelty Project\Novelty Solution\bin\Debug\Novelty Solution.exe
+c:\users\pete main\documents\visual studio 2012\Projects\Novelty Project\Novelty Solution\bin\Debug\Novelty Solution.pdb
+c:\users\pete main\documents\visual studio 2012\Projects\Novelty Project\Novelty Solution\bin\Debug\Novelty Solution.xml
+c:\users\pete main\documents\visual studio 2012\Projects\Novelty Project\Novelty Solution\obj\Debug\Novelty Solution.exe
+c:\users\pete main\documents\visual studio 2012\Projects\Novelty Project\Novelty Solution\obj\Debug\Novelty Solution.xml
+c:\users\pete main\documents\visual studio 2012\Projects\Novelty Project\Novelty Solution\obj\Debug\Novelty Solution.pdb

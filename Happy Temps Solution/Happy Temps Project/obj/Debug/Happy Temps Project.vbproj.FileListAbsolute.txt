@@ -1,0 +1,10 @@
+c:\users\pete main\documents\visual studio 2012\Projects\Happy Temps Solution\Happy Temps Project\bin\Debug\Happy Temps Project.exe.config
+c:\users\pete main\documents\visual studio 2012\Projects\Happy Temps Solution\Happy Temps Project\obj\Debug\Happy_Temps_Project.MainForm.resources
+c:\users\pete main\documents\visual studio 2012\Projects\Happy Temps Solution\Happy Temps Project\obj\Debug\Happy_Temps_Project.Resources.resources
+c:\users\pete main\documents\visual studio 2012\Projects\Happy Temps Solution\Happy Temps Project\obj\Debug\Happy Temps Project.vbproj.GenerateResource.Cache
+c:\users\pete main\documents\visual studio 2012\Projects\Happy Temps Solution\Happy Temps Project\bin\Debug\Happy Temps Project.exe
+c:\users\pete main\documents\visual studio 2012\Projects\Happy Temps Solution\Happy Temps Project\bin\Debug\Happy Temps Project.pdb
+c:\users\pete main\documents\visual studio 2012\Projects\Happy Temps Solution\Happy Temps Project\bin\Debug\Happy Temps Project.xml
+c:\users\pete main\documents\visual studio 2012\Projects\Happy Temps Solution\Happy Temps Project\obj\Debug\Happy Temps Project.exe
+c:\users\pete main\documents\visual studio 2012\Projects\Happy Temps Solution\Happy Temps Project\obj\Debug\Happy Temps Project.xml
+c:\users\pete main\documents\visual studio 2012\Projects\Happy Temps Solution\Happy Temps Project\obj\Debug\Happy Temps Project.pdb

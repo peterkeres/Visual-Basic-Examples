@@ -1,0 +1,12 @@
+E:\backup files\school stuff\Columbus state\Semester 5\Graph user interface CPSC\Assigments\Assigment 2\Latte Selection ch3\Latte Selection\bin\Debug\Latte Selection.exe.config
+E:\backup files\school stuff\Columbus state\Semester 5\Graph user interface CPSC\Assigments\Assigment 2\Latte Selection ch3\Latte Selection\bin\Debug\Latte Selection.exe
+E:\backup files\school stuff\Columbus state\Semester 5\Graph user interface CPSC\Assigments\Assigment 2\Latte Selection ch3\Latte Selection\bin\Debug\Latte Selection.pdb
+E:\backup files\school stuff\Columbus state\Semester 5\Graph user interface CPSC\Assigments\Assigment 2\Latte Selection ch3\Latte Selection\bin\Debug\Latte Selection.xml
+E:\backup files\school stuff\Columbus state\Semester 5\Graph user interface CPSC\Assigments\Assigment 2\Latte Selection ch3\Latte Selection\obj\Debug\Latte Selection.vbprojAssemblyReference.cache
+E:\backup files\school stuff\Columbus state\Semester 5\Graph user interface CPSC\Assigments\Assigment 2\Latte Selection ch3\Latte Selection\obj\Debug\Latte_Selection.frmLatteSelection.resources
+E:\backup files\school stuff\Columbus state\Semester 5\Graph user interface CPSC\Assigments\Assigment 2\Latte Selection ch3\Latte Selection\obj\Debug\Latte_Selection.Resources.resources
+E:\backup files\school stuff\Columbus state\Semester 5\Graph user interface CPSC\Assigments\Assigment 2\Latte Selection ch3\Latte Selection\obj\Debug\Latte Selection.vbproj.GenerateResource.cache
+E:\backup files\school stuff\Columbus state\Semester 5\Graph user interface CPSC\Assigments\Assigment 2\Latte Selection ch3\Latte Selection\obj\Debug\Latte Selection.vbproj.CoreCompileInputs.cache
+E:\backup files\school stuff\Columbus state\Semester 5\Graph user interface CPSC\Assigments\Assigment 2\Latte Selection ch3\Latte Selection\obj\Debug\Latte Selection.exe
+E:\backup files\school stuff\Columbus state\Semester 5\Graph user interface CPSC\Assigments\Assigment 2\Latte Selection ch3\Latte Selection\obj\Debug\Latte Selection.xml
+E:\backup files\school stuff\Columbus state\Semester 5\Graph user interface CPSC\Assigments\Assigment 2\Latte Selection ch3\Latte Selection\obj\Debug\Latte Selection.pdb

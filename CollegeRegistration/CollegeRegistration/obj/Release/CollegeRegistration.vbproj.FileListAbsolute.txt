@@ -1,0 +1,11 @@
+/Users/peterk/Downloads/visual basic/assigments/assigment_10/CollegeRegistration/CollegeRegistration/bin/Release/CollegeRegistration.exe.config
+/Users/peterk/Downloads/visual basic/assigments/assigment_10/CollegeRegistration/CollegeRegistration/bin/Release/CollegeRegistration.exe
+/Users/peterk/Downloads/visual basic/assigments/assigment_10/CollegeRegistration/CollegeRegistration/bin/Release/CollegeRegistration.pdb
+/Users/peterk/Downloads/visual basic/assigments/assigment_10/CollegeRegistration/CollegeRegistration/bin/Release/CollegeRegistration.xml
+/Users/peterk/Downloads/visual basic/assigments/assigment_10/CollegeRegistration/CollegeRegistration/obj/Release/CollegeRegistration.frmCollege.resources
+/Users/peterk/Downloads/visual basic/assigments/assigment_10/CollegeRegistration/CollegeRegistration/obj/Release/CollegeRegistration.Resources.resources
+/Users/peterk/Downloads/visual basic/assigments/assigment_10/CollegeRegistration/CollegeRegistration/obj/Release/CollegeRegistration.vbproj.GenerateResource.cache
+/Users/peterk/Downloads/visual basic/assigments/assigment_10/CollegeRegistration/CollegeRegistration/obj/Release/CollegeRegistration.vbproj.CoreCompileInputs.cache
+/Users/peterk/Downloads/visual basic/assigments/assigment_10/CollegeRegistration/CollegeRegistration/obj/Release/CollegeRegistration.exe
+/Users/peterk/Downloads/visual basic/assigments/assigment_10/CollegeRegistration/CollegeRegistration/obj/Release/CollegeRegistration.xml
+/Users/peterk/Downloads/visual basic/assigments/assigment_10/CollegeRegistration/CollegeRegistration/obj/Release/CollegeRegistration.pdb

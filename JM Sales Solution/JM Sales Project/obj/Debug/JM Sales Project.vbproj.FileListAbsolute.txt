@@ -1,0 +1,10 @@
+c:\users\pete main\documents\visual studio 2012\Projects\JM Sales Solution\JM Sales Project\bin\Debug\JM Sales Project.exe.config
+c:\users\pete main\documents\visual studio 2012\Projects\JM Sales Solution\JM Sales Project\bin\Debug\JM Sales Project.exe
+c:\users\pete main\documents\visual studio 2012\Projects\JM Sales Solution\JM Sales Project\bin\Debug\JM Sales Project.pdb
+c:\users\pete main\documents\visual studio 2012\Projects\JM Sales Solution\JM Sales Project\bin\Debug\JM Sales Project.xml
+c:\users\pete main\documents\visual studio 2012\Projects\JM Sales Solution\JM Sales Project\obj\Debug\JM_Sales_Project.MainForm.resources
+c:\users\pete main\documents\visual studio 2012\Projects\JM Sales Solution\JM Sales Project\obj\Debug\JM_Sales_Project.Resources.resources
+c:\users\pete main\documents\visual studio 2012\Projects\JM Sales Solution\JM Sales Project\obj\Debug\JM Sales Project.vbproj.GenerateResource.Cache
+c:\users\pete main\documents\visual studio 2012\Projects\JM Sales Solution\JM Sales Project\obj\Debug\JM Sales Project.exe
+c:\users\pete main\documents\visual studio 2012\Projects\JM Sales Solution\JM Sales Project\obj\Debug\JM Sales Project.xml
+c:\users\pete main\documents\visual studio 2012\Projects\JM Sales Solution\JM Sales Project\obj\Debug\JM Sales Project.pdb

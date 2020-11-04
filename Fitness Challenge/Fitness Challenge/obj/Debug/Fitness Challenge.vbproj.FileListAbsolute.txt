@@ -1,0 +1,16 @@
+E:\backup files\school stuff\Columbus state\Semester 5\Graph user interface CPSC\assigments\assigment_5\Fitness Challenge\Fitness Challenge\bin\Debug\Fitness Challenge.exe.config
+E:\backup files\school stuff\Columbus state\Semester 5\Graph user interface CPSC\assigments\assigment_5\Fitness Challenge\Fitness Challenge\bin\Debug\Fitness Challenge.exe
+E:\backup files\school stuff\Columbus state\Semester 5\Graph user interface CPSC\assigments\assigment_5\Fitness Challenge\Fitness Challenge\bin\Debug\Fitness Challenge.pdb
+E:\backup files\school stuff\Columbus state\Semester 5\Graph user interface CPSC\assigments\assigment_5\Fitness Challenge\Fitness Challenge\bin\Debug\Fitness Challenge.xml
+E:\backup files\school stuff\Columbus state\Semester 5\Graph user interface CPSC\assigments\assigment_5\Fitness Challenge\Fitness Challenge\obj\Debug\Fitness Challenge.vbprojAssemblyReference.cache
+E:\backup files\school stuff\Columbus state\Semester 5\Graph user interface CPSC\assigments\assigment_5\Fitness Challenge\Fitness Challenge\obj\Debug\Fitness_Challenge.frmFitness.resources
+E:\backup files\school stuff\Columbus state\Semester 5\Graph user interface CPSC\assigments\assigment_5\Fitness Challenge\Fitness Challenge\obj\Debug\Fitness_Challenge.Resources.resources
+E:\backup files\school stuff\Columbus state\Semester 5\Graph user interface CPSC\assigments\assigment_5\Fitness Challenge\Fitness Challenge\obj\Debug\Fitness Challenge.vbproj.GenerateResource.cache
+E:\backup files\school stuff\Columbus state\Semester 5\Graph user interface CPSC\assigments\assigment_5\Fitness Challenge\Fitness Challenge\obj\Debug\Fitness Challenge.vbproj.CoreCompileInputs.cache
+E:\backup files\school stuff\Columbus state\Semester 5\Graph user interface CPSC\assigments\assigment_5\Fitness Challenge\Fitness Challenge\obj\Debug\Fitness Challenge.exe
+E:\backup files\school stuff\Columbus state\Semester 5\Graph user interface CPSC\assigments\assigment_5\Fitness Challenge\Fitness Challenge\obj\Debug\Fitness Challenge.xml
+E:\backup files\school stuff\Columbus state\Semester 5\Graph user interface CPSC\assigments\assigment_5\Fitness Challenge\Fitness Challenge\obj\Debug\Fitness Challenge.pdb
+E:\backup files\school stuff\Columbus state\Semester 5\Graph user interface CPSC\assigments\assigment_5\Fitness Challenge\Fitness Challenge\bin\Debug\Fitness Challenge.exe.manifest
+E:\backup files\school stuff\Columbus state\Semester 5\Graph user interface CPSC\assigments\assigment_5\Fitness Challenge\Fitness Challenge\bin\Debug\Fitness Challenge.application
+E:\backup files\school stuff\Columbus state\Semester 5\Graph user interface CPSC\assigments\assigment_5\Fitness Challenge\Fitness Challenge\obj\Debug\Fitness Challenge.exe.manifest
+E:\backup files\school stuff\Columbus state\Semester 5\Graph user interface CPSC\assigments\assigment_5\Fitness Challenge\Fitness Challenge\obj\Debug\Fitness Challenge.application

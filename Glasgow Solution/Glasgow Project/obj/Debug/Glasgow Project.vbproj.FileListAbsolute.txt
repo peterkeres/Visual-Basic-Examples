@@ -1,0 +1,10 @@
+c:\users\pete main\documents\visual studio 2012\Projects\Glasgow Solution\Glasgow Project\bin\Debug\Glasgow Project.exe.config
+c:\users\pete main\documents\visual studio 2012\Projects\Glasgow Solution\Glasgow Project\bin\Debug\Glasgow Project.exe
+c:\users\pete main\documents\visual studio 2012\Projects\Glasgow Solution\Glasgow Project\bin\Debug\Glasgow Project.pdb
+c:\users\pete main\documents\visual studio 2012\Projects\Glasgow Solution\Glasgow Project\bin\Debug\Glasgow Project.xml
+c:\users\pete main\documents\visual studio 2012\Projects\Glasgow Solution\Glasgow Project\obj\Debug\Glasgow_Project.MainForm.resources
+c:\users\pete main\documents\visual studio 2012\Projects\Glasgow Solution\Glasgow Project\obj\Debug\Glasgow_Project.Resources.resources
+c:\users\pete main\documents\visual studio 2012\Projects\Glasgow Solution\Glasgow Project\obj\Debug\Glasgow Project.vbproj.GenerateResource.Cache
+c:\users\pete main\documents\visual studio 2012\Projects\Glasgow Solution\Glasgow Project\obj\Debug\Glasgow Project.exe
+c:\users\pete main\documents\visual studio 2012\Projects\Glasgow Solution\Glasgow Project\obj\Debug\Glasgow Project.xml
+c:\users\pete main\documents\visual studio 2012\Projects\Glasgow Solution\Glasgow Project\obj\Debug\Glasgow Project.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Gaming Art", "Gaming Art\Gaming Art.vbproj", "{322B7D08-88FB-4D53-97E7-8704863EA22F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{322B7D08-88FB-4D53-97E7-8704863EA22F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{322B7D08-88FB-4D53-97E7-8704863EA22F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{322B7D08-88FB-4D53-97E7-8704863EA22F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{322B7D08-88FB-4D53-97E7-8704863EA22F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B726DA38-CD7B-40A5-B07E-4E3C60BF3DC8}
+	EndGlobalSection
+EndGlobal

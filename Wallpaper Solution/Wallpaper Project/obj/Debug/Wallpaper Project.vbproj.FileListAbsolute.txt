@@ -1,0 +1,10 @@
+c:\users\pete main\documents\visual studio 2012\Projects\Wallpaper Solution\Wallpaper Project\bin\Debug\Wallpaper Project.exe.config
+c:\users\pete main\documents\visual studio 2012\Projects\Wallpaper Solution\Wallpaper Project\bin\Debug\Wallpaper Project.exe
+c:\users\pete main\documents\visual studio 2012\Projects\Wallpaper Solution\Wallpaper Project\bin\Debug\Wallpaper Project.pdb
+c:\users\pete main\documents\visual studio 2012\Projects\Wallpaper Solution\Wallpaper Project\bin\Debug\Wallpaper Project.xml
+c:\users\pete main\documents\visual studio 2012\Projects\Wallpaper Solution\Wallpaper Project\obj\Debug\Wallpaper_Project.MainForm.resources
+c:\users\pete main\documents\visual studio 2012\Projects\Wallpaper Solution\Wallpaper Project\obj\Debug\Wallpaper_Project.Resources.resources
+c:\users\pete main\documents\visual studio 2012\Projects\Wallpaper Solution\Wallpaper Project\obj\Debug\Wallpaper Project.vbproj.GenerateResource.Cache
+c:\users\pete main\documents\visual studio 2012\Projects\Wallpaper Solution\Wallpaper Project\obj\Debug\Wallpaper Project.exe
+c:\users\pete main\documents\visual studio 2012\Projects\Wallpaper Solution\Wallpaper Project\obj\Debug\Wallpaper Project.xml
+c:\users\pete main\documents\visual studio 2012\Projects\Wallpaper Solution\Wallpaper Project\obj\Debug\Wallpaper Project.pdb

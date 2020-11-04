@@ -1,0 +1,10 @@
+c:\users\pete main\documents\visual studio 2012\Projects\Cook Solution\Cook Project\bin\Debug\Cook Project.exe.config
+c:\users\pete main\documents\visual studio 2012\Projects\Cook Solution\Cook Project\obj\Debug\Cook_Project.MainForm.resources
+c:\users\pete main\documents\visual studio 2012\Projects\Cook Solution\Cook Project\obj\Debug\Cook_Project.Resources.resources
+c:\users\pete main\documents\visual studio 2012\Projects\Cook Solution\Cook Project\obj\Debug\Cook Project.vbproj.GenerateResource.Cache
+c:\users\pete main\documents\visual studio 2012\Projects\Cook Solution\Cook Project\bin\Debug\Cook Project.exe
+c:\users\pete main\documents\visual studio 2012\Projects\Cook Solution\Cook Project\bin\Debug\Cook Project.pdb
+c:\users\pete main\documents\visual studio 2012\Projects\Cook Solution\Cook Project\bin\Debug\Cook Project.xml
+c:\users\pete main\documents\visual studio 2012\Projects\Cook Solution\Cook Project\obj\Debug\Cook Project.exe
+c:\users\pete main\documents\visual studio 2012\Projects\Cook Solution\Cook Project\obj\Debug\Cook Project.xml
+c:\users\pete main\documents\visual studio 2012\Projects\Cook Solution\Cook Project\obj\Debug\Cook Project.pdb

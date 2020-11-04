@@ -1,0 +1,10 @@
+c:\users\pete main\documents\visual studio 2012\Projects\Warren Solution\Warren Project\bin\Debug\Warren Project.exe.config
+c:\users\pete main\documents\visual studio 2012\Projects\Warren Solution\Warren Project\bin\Debug\Warren Project.exe
+c:\users\pete main\documents\visual studio 2012\Projects\Warren Solution\Warren Project\bin\Debug\Warren Project.pdb
+c:\users\pete main\documents\visual studio 2012\Projects\Warren Solution\Warren Project\bin\Debug\Warren Project.xml
+c:\users\pete main\documents\visual studio 2012\Projects\Warren Solution\Warren Project\obj\Debug\Warren_Project.MainForm.resources
+c:\users\pete main\documents\visual studio 2012\Projects\Warren Solution\Warren Project\obj\Debug\Warren_Project.Resources.resources
+c:\users\pete main\documents\visual studio 2012\Projects\Warren Solution\Warren Project\obj\Debug\Warren Project.vbproj.GenerateResource.Cache
+c:\users\pete main\documents\visual studio 2012\Projects\Warren Solution\Warren Project\obj\Debug\Warren Project.exe
+c:\users\pete main\documents\visual studio 2012\Projects\Warren Solution\Warren Project\obj\Debug\Warren Project.xml
+c:\users\pete main\documents\visual studio 2012\Projects\Warren Solution\Warren Project\obj\Debug\Warren Project.pdb

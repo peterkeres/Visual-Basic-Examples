@@ -1,0 +1,11 @@
+c:\users\pete main\documents\visual studio 2012\Projects\College Courses Solution\College Courses Project\bin\Debug\College Courses Project.exe.config
+C:\Users\pete main\documents\visual studio 2012\Projects\College Courses Solution\College Courses Project\bin\Debug\Courses.accdb
+C:\Users\pete main\documents\visual studio 2012\Projects\College Courses Solution\College Courses Project\bin\Debug\College Courses Project.exe
+C:\Users\pete main\documents\visual studio 2012\Projects\College Courses Solution\College Courses Project\bin\Debug\College Courses Project.pdb
+C:\Users\pete main\documents\visual studio 2012\Projects\College Courses Solution\College Courses Project\bin\Debug\College Courses Project.xml
+C:\Users\pete main\documents\visual studio 2012\Projects\College Courses Solution\College Courses Project\obj\Debug\College_Courses_Project.MainForm.resources
+C:\Users\pete main\documents\visual studio 2012\Projects\College Courses Solution\College Courses Project\obj\Debug\College_Courses_Project.Resources.resources
+C:\Users\pete main\documents\visual studio 2012\Projects\College Courses Solution\College Courses Project\obj\Debug\College Courses Project.vbproj.GenerateResource.Cache
+C:\Users\pete main\documents\visual studio 2012\Projects\College Courses Solution\College Courses Project\obj\Debug\College Courses Project.exe
+C:\Users\pete main\documents\visual studio 2012\Projects\College Courses Solution\College Courses Project\obj\Debug\College Courses Project.xml
+C:\Users\pete main\documents\visual studio 2012\Projects\College Courses Solution\College Courses Project\obj\Debug\College Courses Project.pdb

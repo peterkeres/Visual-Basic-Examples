@@ -1,0 +1,12 @@
+E:\backup files\school stuff\Columbus state\Semester 5\Graph user interface CPSC\projects\project_1\fitness_tracker\fitness_tracker\bin\Debug\fitness_tracker.exe.config
+E:\backup files\school stuff\Columbus state\Semester 5\Graph user interface CPSC\projects\project_1\fitness_tracker\fitness_tracker\bin\Debug\fitness_tracker.exe
+E:\backup files\school stuff\Columbus state\Semester 5\Graph user interface CPSC\projects\project_1\fitness_tracker\fitness_tracker\bin\Debug\fitness_tracker.pdb
+E:\backup files\school stuff\Columbus state\Semester 5\Graph user interface CPSC\projects\project_1\fitness_tracker\fitness_tracker\bin\Debug\fitness_tracker.xml
+E:\backup files\school stuff\Columbus state\Semester 5\Graph user interface CPSC\projects\project_1\fitness_tracker\fitness_tracker\obj\Debug\fitness_tracker.vbprojAssemblyReference.cache
+E:\backup files\school stuff\Columbus state\Semester 5\Graph user interface CPSC\projects\project_1\fitness_tracker\fitness_tracker\obj\Debug\fitness_tracker.frmMain.resources
+E:\backup files\school stuff\Columbus state\Semester 5\Graph user interface CPSC\projects\project_1\fitness_tracker\fitness_tracker\obj\Debug\fitness_tracker.Resources.resources
+E:\backup files\school stuff\Columbus state\Semester 5\Graph user interface CPSC\projects\project_1\fitness_tracker\fitness_tracker\obj\Debug\fitness_tracker.vbproj.GenerateResource.cache
+E:\backup files\school stuff\Columbus state\Semester 5\Graph user interface CPSC\projects\project_1\fitness_tracker\fitness_tracker\obj\Debug\fitness_tracker.vbproj.CoreCompileInputs.cache
+E:\backup files\school stuff\Columbus state\Semester 5\Graph user interface CPSC\projects\project_1\fitness_tracker\fitness_tracker\obj\Debug\fitness_tracker.exe
+E:\backup files\school stuff\Columbus state\Semester 5\Graph user interface CPSC\projects\project_1\fitness_tracker\fitness_tracker\obj\Debug\fitness_tracker.xml
+E:\backup files\school stuff\Columbus state\Semester 5\Graph user interface CPSC\projects\project_1\fitness_tracker\fitness_tracker\obj\Debug\fitness_tracker.pdb

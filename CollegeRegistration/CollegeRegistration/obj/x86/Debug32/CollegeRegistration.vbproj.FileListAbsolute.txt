@@ -1,0 +1,4 @@
+/Users/peterk/Downloads/visual basic/assigments/assigment_10/CollegeRegistration/CollegeRegistration/obj/x86/Debug32/frmCollege.resources
+/Users/peterk/Downloads/visual basic/assigments/assigment_10/CollegeRegistration/CollegeRegistration/obj/x86/Debug32/Resources.resources
+/Users/peterk/Downloads/visual basic/assigments/assigment_10/CollegeRegistration/CollegeRegistration/obj/x86/Debug32/CollegeRegistration.vbproj.GenerateResource.cache
+/Users/peterk/Downloads/visual basic/assigments/assigment_10/CollegeRegistration/CollegeRegistration/obj/x86/Debug32/CollegeRegistration.vbproj.CoreCompileInputs.cache

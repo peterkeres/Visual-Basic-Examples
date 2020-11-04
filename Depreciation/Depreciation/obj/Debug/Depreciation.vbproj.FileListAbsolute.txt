@@ -1,0 +1,13 @@
+E:\backup files\school stuff\Columbus state\Semester 5\graphic_user_interface_CPSC_3118\assigments\assigment_8\Depreciation\Depreciation\bin\Debug\Depreciation.exe.config
+E:\backup files\school stuff\Columbus state\Semester 5\graphic_user_interface_CPSC_3118\assigments\assigment_8\Depreciation\Depreciation\bin\Debug\Depreciation.exe
+E:\backup files\school stuff\Columbus state\Semester 5\graphic_user_interface_CPSC_3118\assigments\assigment_8\Depreciation\Depreciation\bin\Debug\Depreciation.pdb
+E:\backup files\school stuff\Columbus state\Semester 5\graphic_user_interface_CPSC_3118\assigments\assigment_8\Depreciation\Depreciation\bin\Debug\Depreciation.xml
+E:\backup files\school stuff\Columbus state\Semester 5\graphic_user_interface_CPSC_3118\assigments\assigment_8\Depreciation\Depreciation\obj\Debug\Depreciation.vbprojAssemblyReference.cache
+E:\backup files\school stuff\Columbus state\Semester 5\graphic_user_interface_CPSC_3118\assigments\assigment_8\Depreciation\Depreciation\obj\Debug\Depreciation.frmDepreciation.resources
+E:\backup files\school stuff\Columbus state\Semester 5\graphic_user_interface_CPSC_3118\assigments\assigment_8\Depreciation\Depreciation\obj\Debug\Depreciation.Resources.resources
+E:\backup files\school stuff\Columbus state\Semester 5\graphic_user_interface_CPSC_3118\assigments\assigment_8\Depreciation\Depreciation\obj\Debug\Depreciation.vbproj.GenerateResource.cache
+E:\backup files\school stuff\Columbus state\Semester 5\graphic_user_interface_CPSC_3118\assigments\assigment_8\Depreciation\Depreciation\obj\Debug\Depreciation.vbproj.CoreCompileInputs.cache
+E:\backup files\school stuff\Columbus state\Semester 5\graphic_user_interface_CPSC_3118\assigments\assigment_8\Depreciation\Depreciation\obj\Debug\Depreciation.exe
+E:\backup files\school stuff\Columbus state\Semester 5\graphic_user_interface_CPSC_3118\assigments\assigment_8\Depreciation\Depreciation\obj\Debug\Depreciation.xml
+E:\backup files\school stuff\Columbus state\Semester 5\graphic_user_interface_CPSC_3118\assigments\assigment_8\Depreciation\Depreciation\obj\Debug\Depreciation.pdb
+E:\backup files\school stuff\Columbus state\Semester 5\graphic_user_interface_CPSC_3118\assigments\assigment_8\Depreciation\Depreciation\obj\Debug\Depreciation.frmDisplayInventory.resources

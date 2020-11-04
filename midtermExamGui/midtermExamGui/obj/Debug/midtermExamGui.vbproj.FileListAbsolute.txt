@@ -1,0 +1,12 @@
+Q:\Users\keres_peter\Documents\midtermExam\midtermExamGui\midtermExamGui\bin\Debug\midtermExamGui.exe.config
+Q:\Users\keres_peter\Documents\midtermExam\midtermExamGui\midtermExamGui\bin\Debug\midtermExamGui.exe
+Q:\Users\keres_peter\Documents\midtermExam\midtermExamGui\midtermExamGui\bin\Debug\midtermExamGui.pdb
+Q:\Users\keres_peter\Documents\midtermExam\midtermExamGui\midtermExamGui\bin\Debug\midtermExamGui.xml
+Q:\Users\keres_peter\Documents\midtermExam\midtermExamGui\midtermExamGui\obj\Debug\midtermExamGui.vbprojAssemblyReference.cache
+Q:\Users\keres_peter\Documents\midtermExam\midtermExamGui\midtermExamGui\obj\Debug\midtermExamGui.frmMain.resources
+Q:\Users\keres_peter\Documents\midtermExam\midtermExamGui\midtermExamGui\obj\Debug\midtermExamGui.Resources.resources
+Q:\Users\keres_peter\Documents\midtermExam\midtermExamGui\midtermExamGui\obj\Debug\midtermExamGui.vbproj.GenerateResource.cache
+Q:\Users\keres_peter\Documents\midtermExam\midtermExamGui\midtermExamGui\obj\Debug\midtermExamGui.vbproj.CoreCompileInputs.cache
+Q:\Users\keres_peter\Documents\midtermExam\midtermExamGui\midtermExamGui\obj\Debug\midtermExamGui.exe
+Q:\Users\keres_peter\Documents\midtermExam\midtermExamGui\midtermExamGui\obj\Debug\midtermExamGui.xml
+Q:\Users\keres_peter\Documents\midtermExam\midtermExamGui\midtermExamGui\obj\Debug\midtermExamGui.pdb

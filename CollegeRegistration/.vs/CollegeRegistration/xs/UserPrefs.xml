@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{4823C4B4-834C-4A7F-B002-9DBDE94F342E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CollegeRegistration/My Project/Settings.Designer.vb">
+    <Files>
+      <File FileName="CollegeRegistration/My Project/Application.Designer.vb" Line="1" Column="1" />
+      <File FileName="CollegeRegistration/My Project/AssemblyInfo.vb" />
+      <File FileName="CollegeRegistration/My Project/Resources.resx" />
+      <File FileName="CollegeRegistration/App.config" />
+      <File FileName="CollegeRegistration/frmCollege.vb" />
+      <File FileName="CollegeRegistration/My Project/Application.myapp" />
+      <File FileName="CollegeRegistration/Student.vb" />
+      <File FileName="CollegeRegistration/OnCampusStudent.vb" />
+      <File FileName="CollegeRegistration/StudentCostsFile.vb" />
+      <File FileName="CollegeRegistration/frmCollege.resx" />
+      <File FileName="CollegeRegistration/My Project/Settings.Designer.vb" Line="74" Column="1" />
+      <File FileName="CollegeRegistration/frmCollege.Designer.vb" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CollegeRegistration" expanded="True" selected="True">
+            <Node name="CollegeRegistration" expanded="True">
+              <Node name="My Project" expanded="True">
+                <Node name="Settings.settings" expanded="True" />
+              </Node>
+              <Node name="frmCollege.vb" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.CollegeRegistration PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations>
+    <MultiItemSolutionRunConfiguration Id="mac" Name="mac" />
+  </MultiItemStartupConfigurations>
+</Properties>

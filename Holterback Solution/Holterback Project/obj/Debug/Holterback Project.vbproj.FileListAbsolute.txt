@@ -1,0 +1,10 @@
+c:\users\pete main\documents\visual studio 2012\Projects\Holterback Solution\Holterback Project\bin\Debug\Holterback Project.exe.config
+c:\users\pete main\documents\visual studio 2012\Projects\Holterback Solution\Holterback Project\bin\Debug\Holterback Project.exe
+c:\users\pete main\documents\visual studio 2012\Projects\Holterback Solution\Holterback Project\bin\Debug\Holterback Project.pdb
+c:\users\pete main\documents\visual studio 2012\Projects\Holterback Solution\Holterback Project\bin\Debug\Holterback Project.xml
+c:\users\pete main\documents\visual studio 2012\Projects\Holterback Solution\Holterback Project\obj\Debug\Holterback_Project.MainForm.resources
+c:\users\pete main\documents\visual studio 2012\Projects\Holterback Solution\Holterback Project\obj\Debug\Holterback_Project.Resources.resources
+c:\users\pete main\documents\visual studio 2012\Projects\Holterback Solution\Holterback Project\obj\Debug\Holterback Project.vbproj.GenerateResource.Cache
+c:\users\pete main\documents\visual studio 2012\Projects\Holterback Solution\Holterback Project\obj\Debug\Holterback Project.exe
+c:\users\pete main\documents\visual studio 2012\Projects\Holterback Solution\Holterback Project\obj\Debug\Holterback Project.xml
+c:\users\pete main\documents\visual studio 2012\Projects\Holterback Solution\Holterback Project\obj\Debug\Holterback Project.pdb

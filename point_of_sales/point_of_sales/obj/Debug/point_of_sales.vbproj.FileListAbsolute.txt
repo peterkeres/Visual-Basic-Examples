@@ -1,0 +1,12 @@
+E:\backup files\school stuff\Columbus state\Semester 5\graphic_user_interface_CPSC_3118\project\project_2\point_of_sales\point_of_sales\bin\Debug\point_of_sales.exe.config
+E:\backup files\school stuff\Columbus state\Semester 5\graphic_user_interface_CPSC_3118\project\project_2\point_of_sales\point_of_sales\bin\Debug\point_of_sales.exe
+E:\backup files\school stuff\Columbus state\Semester 5\graphic_user_interface_CPSC_3118\project\project_2\point_of_sales\point_of_sales\bin\Debug\point_of_sales.pdb
+E:\backup files\school stuff\Columbus state\Semester 5\graphic_user_interface_CPSC_3118\project\project_2\point_of_sales\point_of_sales\bin\Debug\point_of_sales.xml
+E:\backup files\school stuff\Columbus state\Semester 5\graphic_user_interface_CPSC_3118\project\project_2\point_of_sales\point_of_sales\obj\Debug\point_of_sales.vbprojAssemblyReference.cache
+E:\backup files\school stuff\Columbus state\Semester 5\graphic_user_interface_CPSC_3118\project\project_2\point_of_sales\point_of_sales\obj\Debug\point_of_sales.point_of_sales.resources
+E:\backup files\school stuff\Columbus state\Semester 5\graphic_user_interface_CPSC_3118\project\project_2\point_of_sales\point_of_sales\obj\Debug\point_of_sales.Resources.resources
+E:\backup files\school stuff\Columbus state\Semester 5\graphic_user_interface_CPSC_3118\project\project_2\point_of_sales\point_of_sales\obj\Debug\point_of_sales.vbproj.GenerateResource.cache
+E:\backup files\school stuff\Columbus state\Semester 5\graphic_user_interface_CPSC_3118\project\project_2\point_of_sales\point_of_sales\obj\Debug\point_of_sales.vbproj.CoreCompileInputs.cache
+E:\backup files\school stuff\Columbus state\Semester 5\graphic_user_interface_CPSC_3118\project\project_2\point_of_sales\point_of_sales\obj\Debug\point_of_sales.exe
+E:\backup files\school stuff\Columbus state\Semester 5\graphic_user_interface_CPSC_3118\project\project_2\point_of_sales\point_of_sales\obj\Debug\point_of_sales.xml
+E:\backup files\school stuff\Columbus state\Semester 5\graphic_user_interface_CPSC_3118\project\project_2\point_of_sales\point_of_sales\obj\Debug\point_of_sales.pdb
